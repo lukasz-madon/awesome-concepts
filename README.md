@@ -886,6 +886,8 @@ Essentialism, the disciplined pursuit of less and Walden - for understanding how
 
 Les Miserables - for understanding love
 
+Poor Charlie's Almanac
+
 
 ### References
 

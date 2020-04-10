@@ -739,9 +739,6 @@ These fallacies should be considered carefully when designing code which is resi
 
 ## Mental Models
 
-1.
-
-TODO Here or somewhere else?
 
 ### Wisdom and Circles of Competence
 
@@ -864,9 +861,8 @@ Thinking is a lot of work. “My first thought,” William Deresiewicz said in o
 
 ## Cognitive Biases
 
-1.
+https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
-TODO
 
 ### References
 

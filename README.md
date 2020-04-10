@@ -333,6 +333,8 @@ See Also:
 
 Occam's razor says that among several possible solutions, the most likely solution is the one with the least number of concepts and assumptions. This solution is the simplest and solves only the given problem, without introducing accidental complexity and possible negative consequences.
 
+If you have 2 competing hypotheses (two hypotheses for which the evidence supports both), you use the one with less assumptions. Partly because the one with less assumptions will be easier to work with and lead to models that are easier to understand. But mostly because less assumptions makes it easier to falsify.
+
 See also:
 
 - [YAGNI](#yagni)
@@ -739,7 +741,126 @@ These fallacies should be considered carefully when designing code which is resi
 
 1.
 
-TODO
+TODO Here or somewhere else?
+
+### Wisdom and Circles of Competence
+
+“Knowing what you don’t know is more useful than being brilliant.”
+“Acknowledging what you don’t know is the dawning of wisdom.”
+
+Identify your circle of competence and use your knowledge, when possible, to stay away from things you don’t understand. There are no points for difficulty at work or in life.  Avoiding stupidity is easier than seeking brilliance.
+
+Of course this principle relates to another of Munger’s sayings: “People are trying to be smart—all I am trying to do is not to be idiotic, but it’s harder than most people think.”
+
+And this reminds me of perhaps my favorite Mungerism of all time, the very quote that sits right beside my desk:
+
+“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”
+
+### Divergence
+“Mimicking the herd invites regression to the mean.”
+
+Here’s a simple axiom to live by: If you do what everyone else does, you’re going to get the same results that everyone else gets. This means that, taking out luck (good or bad), if you act average, you’re going to be average. If you want to move away from average, you must diverge. You must be different. And if you want to outperform others, you must be different and correct. As Munger would say, “How could it be otherwise?”
+
+### Know When to Fold ’Em
+“Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand—you must learn to handle mistakes and new facts that change the odds.”
+
+Mistakes are an opportunity to grow. How we handle adversity is up to us. This is how we become personally antifragile.
+
+### False Models
+Echoing Einstein, who said that “Not everything that counts can be counted, and not everything that can be counted counts,” Munger said this about his and Buffett’s shift to acquiring high-quality businesses for Berkshire Hathaway:
+
+“Once we’d gotten over the hurdle of recognizing that a thing could be a bargain based on quantitative measures that would have horrified Graham, we started thinking about better businesses.”
+
+### Being Lazy
+“Sit on your ass. You’re paying less to brokers, you’re listening to less nonsense, and if it works, the tax system gives you an extra one, two, or three percentage points per annum.”
+
+Time is a friend to a good business and the enemy of the poor business. It’s also the friend of knowledge and the enemy of the new and novel. As Seneca said, “Time discovers truth.”
+
+### Investing Is a Perimutuel System
+“You’re looking for a mispriced gamble,” says Munger. “That’s what investing is. And you have to know enough to know whether the gamble is mispriced. That’s value investing.”  At another time, he added: “You should remember that good ideas are rare— when the odds are greatly in your favor, bet heavily.”
+
+May the odds forever be in your favor. Actually, learning properly is one way you can tilt the odds in your favor.
+
+### Focus
+When asked about his success, Munger says, “I succeeded because I have a long attention span.”
+
+Long attention spans allow for a deep understanding of subjects. When combined with deliberate practice, focus allows you to increase your skills and get out of your rut. The Art of Focus is a divergent and correct strategy that can help you identify where the leverage points are and apply your efforts toward them.
+
+### Fake Knowledge
+“Smart people aren’t exempt from professional disasters from overconfidence.”
+
+We’re so used to outsourcing our thinking to others that we’ve forgotten what it’s like to really understand something from all perspectives. We’ve forgotten just how much work that takes. The path of least resistance, however, is just a click away. Fake knowledge, which comes from reading headlines and skimming the news, seems harmless, but it’s not. It makes us overconfident. It’s better to remember a simple trick: anything you’re getting easily through Google or Twitter is likely to be widely known and should not be given undue weight.
+
+However, Munger adds, “If people weren’t wrong so often, we wouldn’t be so rich.”
+
+### Sit Quietly
+Echoing Pascal, who said some version of “All of humanity’s problems stem from man’s inability to sit quietly in a room alone,” Munger adds an investing twist: “It’s waiting that helps you as an investor, and a lot of people just can’t stand to wait.”
+
+The ability to be alone with your thoughts and turn ideas over and over, without giving in to Do Something syndrome, affects so many of us. A perfectly reasonable option is to hold your ground and await more information.
+
+### Deal With Reality
+“I think that one should recognize reality even when one doesn’t like it; indeed, especially when one doesn’t like it.”
+
+Munger clearly learned from Joseph Tussman’s wisdom. This means facing harsh truths that you might prefer to ignore. It means meeting the world on the world’s terms, not according to how you wish it would be. If this causes temporary pain, so be it. “Your pain,” writes Kahil Gibran in The Prophet, “is the breaking of the shell that encloses your understanding.”
+
+### There Is No Free Lunch
+We like quick solutions that don’t require a lot of effort. We’re drawn to the modern equivalent of an old hustler selling an all-curing tonic. However, the world does not work that way. Munger expands:
+
+“There isn’t a single formula. You need to know a lot about business and human nature and the numbers… It is unreasonable to expect that there is a magic system that will do it for you.”
+
+Acquiring knowledge is hard work. It’s reading and adding to your knowledge so it compounds. It’s going deep and developing fluency, something Darwin knew well.
+
+### Maximization/Minimization
+“In business we often find that the winning system goes almost ridiculously far in maximizing and or minimizing one or a few variables—like the discount warehouses of Costco.”
+
+When everything is a priority, nothing is a priority. Attempting to maximize competing variables is a recipe for disaster. Picking one variable and relentlessly focusing on it, which is an effective strategy, diverges from the norm. It’s hard to compete with businesses that have correctly identified the right variables to maximize or minimize. When you focus on one variable, you’ll increase the odds that you’re quick and nimble — and can respond to changes in the terrain.
+
+### Map and Terrain
+“At Berkshire there has never been a master plan. Anyone who wanted to do it, we fired because it takes on a life of its own and doesn’t cover new reality. We want people taking into account new information.”
+
+Plans are maps that we become attached to. Once we’ve told everyone there is a plan and what that plan is, especially multi-year plans, we’re psychologically more likely to stick to it because coming out and changing it would be admitting we were wrong. This makes it harder for us to change our strategies when we need to, so we’re stacking the odds against ourselves. Detailed five-year plans (that will clearly be wrong) are as disastrous as overly general five-year plans (which can never be wrong).
+
+Scrap the plan, isolate the key variables that you need to maximize and minimize, and follow the agile path blazed by Henry Singleton and followed by Buffett and Munger.
+
+### The Keys to Good Government
+There are three keys: honesty, effectiveness, and efficiency. Munger says:
+
+“In a democracy, everyone takes turns. But if you really want a lot of wisdom, it’s better to concentrate decisions and process in one person. It’s no accident that Singapore has a much better record, given where it started, than the United States. There, power was concentrated in an enormously talented person, Lee Kuan Yew, who was the Warren Buffett of Singapore.”
+
+Lee Kuan Yew put it this way: “With few exceptions, democracy has not brought good government to new developing countries. … What Asians value may not necessarily be what Americans or Europeans value. Westerners value the freedoms and liberties of the individual. As an Asian of Chinese cultural background, my values are for a government which is honest, effective, and efficient.”
+
+### One Step At a Time
+“Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Slug it out one inch at a time, day by day. At the end of the day—if you live long enough—most people get what they deserve.”
+
+An incremental approach to life reminds one of the nature of compounding. There will always be someone going faster than you, but you can learn from the Darwinian guide to overachieving your natural IQ. In order for this approach to be effective, you need a long axis of time as well as continuous incremental progress.
+
+
+### Know-it-alls
+“I try to get rid of people who always confidently answer questions about which they don’t have any real knowledge.”
+
+Few things have made as much of a difference in my life as systemically removing (and when that’s not possible, reducing the importance of) people who think they know the answer to everything.
+
+### Stoic Resolve
+“There’s no way that you can live an adequate life without many mistakes. In fact, one trick in life is to get so you can handle mistakes. Failure to handle psychological denial is a common way for people to go broke.”
+
+While we all make mistakes, it’s how we respond to failure that defines us.
+
+
+### Getting Rich
+“The desire to get rich fast is pretty dangerous.”
+
+Getting rich is a function of being happy with what you have, spending less than you make, and time.
+
+### Thinking
+“We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side.”
+
+“It’s bad to have an opinion you’re proud of if you can’t state the arguments for the other side better than your opponents. This is a great mental discipline.”
+
+Thinking is a lot of work. “My first thought,” William Deresiewicz said in one of my favorite speeches, “is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom.”
+
+
+### Choose Your Associates Wisely
+“Oh, it’s just so useful dealing with people you can trust and getting all the others the hell out of your life. It ought to be taught as a catechism. … [W]ise people want to avoid other people who are just total rat poison, and there are a lot of them.”
 
 ## Cognitive Biases
 

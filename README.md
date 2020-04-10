@@ -55,6 +55,7 @@ Awesome list about all kinds of interesting topics: Laws, Principles, Mental Mod
     - [The Fallacies of Distributed Computing](#the-fallacies-of-distributed-computing)
   - [Mental Models](#mental-models)
   - [Cognitive Biases](#cognitive-biases)
+  - [Books](#books)
 
 
 <!-- /MarkdownTOC -->
@@ -862,6 +863,28 @@ Thinking is a lot of work. “My first thought,” William Deresiewicz said in o
 ## Cognitive Biases
 
 https://en.wikipedia.org/wiki/List_of_cognitive_biases
+
+
+
+## Books
+
+The selfish gene - for understanding human behavior
+
+Meditations of Marcus Aurelius - for understanding how to be content
+
+Debt, the first 5,000 years - for understanding money and finance from the ground up
+
+Wright Brothers - for understanding how technological breakthroughs happen
+
+Snowball (Warren Buffet), Andrew Carnegie and Rockefeller biographies - for understanding the mental mindset to win in business (it's not what you think)
+
+Hackers and painters - for understanding startups and how/why they work
+
+Zen and the art of motorcycle maintenance - for understanding beauty in the routine
+
+Essentialism, the disciplined pursuit of less and Walden - for understanding how "stuff" gets in the way of happiness
+
+Les Miserables - for understanding love
 
 
 ### References

@@ -801,6 +801,12 @@ The ability to be alone with your thoughts and turn ideas over and over, without
 
 Munger clearly learned from Joseph Tussman’s wisdom. This means facing harsh truths that you might prefer to ignore. It means meeting the world on the world’s terms, not according to how you wish it would be. If this causes temporary pain, so be it. “Your pain,” writes Kahil Gibran in The Prophet, “is the breaking of the shell that encloses your understanding.”
 
+### Invert, always, invert
+
+"...it is in the nature of things that many hard problems are best solved when they are addressed backward" Munger.
+
+Instead of asking questions like "How can I make software safe" ask an inverted question "How can I make software fail?" and solve those problems.
+
 ### There Is No Free Lunch
 We like quick solutions that don’t require a lot of effort. We’re drawn to the modern equivalent of an old hustler selling an all-curing tonic. However, the world does not work that way. Munger expands:
 

@@ -56,6 +56,13 @@ Awesome list about all kinds of interesting topics: Laws, Principles, Mental Mod
   - [Mental Models](#mental-models)
   - [Cognitive Biases](#cognitive-biases)
   - [UX Laws](#ux-laws)
+  - [Fallacies](#fallacies)
+    - [Perverse Incentive](#perverse-incentive)
+    - [Survivorship Bias](#survivorship-bias)
+    - [Data Dredging](#data-dredging)
+    - [Observer Effect](#observer-effect)
+    - [Gerrymandering](#gerrymandering)
+    - [Gambler's Fallacy](#gamblers-fallacy)
   - [Books](#books)
 
 
@@ -891,6 +898,35 @@ https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
 
 https://lawsofux.com/
+
+## Fallacies
+
+Referenced from [Geckoboard's Statistical Fallacies](https://www.geckoboard.com/best-practice/statistical-fallacies/)
+
+### Data dredging
+
+Data dredging is the failure to acknowledge that the correlation was in fact the result of chance.
+
+
+### Gerrymandering
+
+The practice of deliberately manipulating boundaries of political districts in order to sway the result of an election.
+
+### Gambler's Fallacy
+
+Also known as the Monte Carlo Fallacy, this fallacy is the mistaken belief that because something has happened more frequently than usual, it’s now less likely to happen in future and vice versa.  
+
+### Observer Effect
+
+The observer effect is the theory that the mere observation of a phenomenon inevitably changes that phenomenon. This is often the result of instruments that, by necessity, alter the state of what they measure in some manner.
+
+### Perverse Incentive
+
+Based off a tale of 1800s British Empire, the perverse incentive or the 'Cobra Effect' is defined by setting an incentive that produces the opposite result to the one intended.
+
+### Survivorship Bias
+
+It is said that in WW2 a team of engineers tried to figure out what was the best place to fit armour on a plane. The planes that came back from battle had bullet holes everywhere except the engine and cockpit. The team decided it was best to fit armour where there were no bullet holes, because planes shot in those places had not returned.
 
 ## Books
 

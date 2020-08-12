@@ -16,6 +16,7 @@ Awesome list about all kinds of interesting topics: Laws, Principles, Mental Mod
     - [Cunningham's Law](#cunninghams-law)
     - [Dunbar's Number](#dunbars-number)
     - [Gall's Law](#galls-law)
+    - [Godwin's Law](#godwins-law)
     - [Goodhart's Law](#goodharts-law)
     - [Hanlon's Razor](#hanlons-razor)
     - [Hofstadter's Law](#hofstadters-law)
@@ -171,6 +172,20 @@ The classic example is the world-wide-web. In its current state, it is a highly 
 See also:
 
 - [KISS (Keep It Simple, Stupid)](#the-kiss-principle)
+
+### Godwin's Law
+
+[Godwin's Law on Wikipedia](https://www.wikiwand.com/en/Godwin's_law)
+
+> As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one.
+>
+> _Mike Godwin_
+
+This law states that if an online discussion (regardless of topic or scope) goes on long enough, sooner or later someone will compare someone or something to Adolf Hitler or Nazis. This law was intentionally created as a meme to remind people in internet chat forums of how widespread -- and therefore not useful -- comparisons to Hitler and Nazis is. It sometimes restated to imply that when a discussion reaches that point, the usefulness of the discussion has ended.
+
+Real-world examples:
+- Gun-control opponents often bring up the fact that Hitler banned personal weapons.
+- Abortion opponents sometimes compare abortion to mass-murder under Nazism.
 
 ### Goodhart's Law
 

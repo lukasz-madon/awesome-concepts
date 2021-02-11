@@ -837,6 +837,8 @@ We like quick solutions that don’t require a lot of effort. We’re drawn to t
 
 Acquiring knowledge is hard work. It’s reading and adding to your knowledge so it compounds. It’s going deep and developing fluency, something Darwin knew well.
 
+Tne "No Free Lunch" Theorem - "No single approach can claim an inherent superiority over others, over all classes of problems" - Wolpert & McReady [1997]
+
 ### Maximization/Minimization
 “In business we often find that the winning system goes almost ridiculously far in maximizing and or minimizing one or a few variables—like the discount warehouses of Costco.”
 
